@@ -28,7 +28,7 @@ button
 
 <center>
 <br><br><br><br><br><br><br><br>
-<button onclick="myFunction()">Hey! It's v2</button><br><br><br>
+<button onclick="myFunction()">Hey! It's v3</button><br><br><br>
 <button onclick="myFunction1()">OpenShift 💖</button><br>
 
 </body>
